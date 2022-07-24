@@ -1,0 +1,32 @@
+.orderList{
+    /* height: 100px;
+    width: 100px; */
+    /* border:1px solid green; */
+    width: 118vh;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px;
+}
+.orderList>div>p:nth-child(2)
+{
+    font-weight: bold;
+}
+.orderListmap{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3rem;
+}
+.orderListmap>div>img{
+    width: 20vh;
+    height: 20vh;
+}
+.orderListmap>div>p{
+    width: 40vh;
+    font-weight: bold;
+    
+}
+.total{
+    margin-top: 5rem;
+}

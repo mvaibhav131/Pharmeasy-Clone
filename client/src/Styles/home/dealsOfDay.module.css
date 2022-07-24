@@ -1,0 +1,55 @@
+.container {
+  margin-top: 50px;
+}
+
+.topSection {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  background-color: #fff2f2;
+  padding: 0px 10px;
+  padding-top: 30px;
+  font-size: 22px;
+  height: 270px;
+}
+
+.topSection > div:nth-child(1) {
+  display: flex;
+  gap: 25px;
+  align-items: baseline;
+  font-weight: bold;
+}
+
+.slider {
+  width: 98%;
+  margin: auto;
+  margin-top: -150px;
+}
+
+.card {
+  background-color: white;
+  margin-right: 8%;
+  cursor: pointer;
+}
+
+.discount {
+  font-size: 15px;
+  color: white;
+  font-weight: bold;
+  background-image: url("https://assets.pharmeasy.in/web-assets/_next/icons/pdp-discount.png");
+  background-repeat: no-repeat;
+  background-size: 40% 25px;
+  border-top-left-radius: 4px;
+}
+
+.card > div:nth-child(1) {
+  border: 2px solid lightgray;
+  border-radius: 5px;
+  height: 224px;
+  margin-bottom: 10px;
+}
+
+.card p {
+  color: #55585e;
+  font-weight: bold;
+}

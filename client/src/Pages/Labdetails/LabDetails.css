@@ -1,0 +1,154 @@
+.lab_details_box {
+  /* border: 1px solid red; */
+  height: 37rem;
+  width: 65rem;
+  margin: auto;
+  margin-top: 8rem;
+}
+
+.textname {
+  /* border: 1px solid red; */
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: #4f585e;
+}
+
+.all_detail_div {
+  /* border: 1px solid red; */
+  height: 22rem;
+  width: 65rem;
+  display: flex;
+}
+
+.box1 {
+  /* border: 1px solid red; */
+  height: 20rem;
+  width: 33rem;
+  margin: auto;
+}
+
+.covidrtpcr_box {
+  border: 1px solid #4f585e;
+  height: 6rem;
+  width: 33rem;
+  border-radius: 5px;
+  display: flex;
+  cursor: pointer;
+  /* border: 1px solid red; */
+}
+.covidrtpcr_box img {
+  height: 2.5rem;
+  margin-left: 2rem;
+  margin-top: 2rem;
+}
+.rtpcr_text {
+  margin-top: 2.2rem;
+  font-size: 1rem;
+  margin-left: 1rem;
+  font-weight: 700;
+  color: #4f585e;
+}
+
+.discription {
+  font-weight: 700;
+}
+
+.test_packeges_box {
+  /* border: 1px solid red; */
+  margin-top: 2rem;
+  display: flex;
+  cursor: pointer;
+}
+
+.populartest_box {
+  /* border: 1px solid red; */
+  color: #10847e;
+  font-weight: 600;
+  margin-left: 1rem;
+  font-size: 1.1rem;
+}
+
+.affordable {
+  /* border: 1px solid red; */
+  color: #8897a2;
+  font-weight: 600;
+  margin-left: 2rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.line {
+  border: 1px solid teal;
+  height: 0.2rem;
+  margin-top: 0.1rem;
+  width: 7rem;
+  background-color: #10847e;
+  cursor: pointer;
+}
+
+.select_test_div {
+  border: 1px solid teal;
+  margin-top: 1rem;
+  height: 6rem;
+  border-radius: 5px;
+  display: flex;
+}
+
+.select_test_div img {
+  height: 2rem;
+  margin-top: 1rem;
+  margin-left: 0.6rem;
+}
+
+.select_test_div h3 {
+  color: #4f585e;
+  margin-top: 1rem;
+  margin-left: 0.5rem;
+  font-weight: 700;
+}
+
+.pricediv {
+  margin-left: 0.5rem;
+  color: #4f585e;
+  font-weight: 700;
+}
+
+.selectbtn {
+  background-color: #10847e;
+  height: 2.8rem;
+  width: 8rem;
+  margin-left: 0.8rem;
+  border-radius: 5px;
+  margin-top: 1.5rem;
+  color: white;
+  font-weight: 600;
+}
+
+.selectyour {
+  margin-left: 5rem;
+  font-weight: 600;
+  color: #4f585e;
+  font-size: 1.1rem;
+}
+
+.view_cart_box {
+  margin-left: 5rem;
+  margin-top: 1rem;
+  width: 22rem;
+  height: 3.4rem;
+}
+
+.view_cart_btn {
+  background-color: #959595;
+  border-radius: 5px;
+  width: 22rem;
+  height: 3.2rem;
+  color: white;
+  font-weight: 700;
+}
+
+.appdiv {
+  /* border: 1px solid red; */
+  width: 66rem;
+  margin: auto;
+}

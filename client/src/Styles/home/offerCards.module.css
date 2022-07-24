@@ -1,0 +1,44 @@
+.container {
+  display: flex;
+  margin: 20px 0px;
+  padding: 0px 16px;
+  box-sizing: border-box;
+  gap: 2%;
+  justify-content: space-between;
+}
+
+.container > div {
+  width: 100%;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+}
+
+.btn {
+  background-color: #3bb896;
+  color: white;
+  border: transparent;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 17px;
+  margin: 16px 0px;
+  margin-left: 6%;
+}
+
+.heading {
+  font-size: 20px;
+  padding: 30px 0px;
+  padding-left: 6%;
+  color: #4f585e;
+  font-weight: bolder;
+}
+
+.discount {
+  background-image: url("https://assets.pharmeasy.in/web-assets/_next/icons/pdp-discount.png");
+  background-repeat: no-repeat;
+  background-size: 100% 30px;
+  font-size: 12px;
+  padding: 6px;
+  color: white;
+  font-weight: bold;
+  width: 45%;
+}

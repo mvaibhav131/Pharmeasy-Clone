@@ -1,0 +1,36 @@
+.container {
+  margin-top: 70px;
+  padding: 0 16px;
+}
+
+.container > h3 {
+  color: #515a60;
+}
+
+.user {
+  margin-bottom: 20px;
+}
+
+.user > p {
+  margin: 0;
+}
+
+.user > p:nth-child(1) {
+  color: #363d41;
+  font-size: 15px;
+}
+
+.user > p:nth-child(2) {
+  font-size: 15px;
+  color: gray;
+}
+
+.message {
+  background-color: #f2fff8;
+  height: 190px;
+  color: #515a60;
+  font-size: 12px;
+  padding: 16px;
+  box-sizing: border-box;
+  margin-right: 16px;
+}

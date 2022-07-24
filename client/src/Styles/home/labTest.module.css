@@ -1,0 +1,40 @@
+.container {
+  margin-top: 50px;
+  padding: 0px 6px;
+  padding-top: 60px;
+  background-color: #d4e2fa;
+  height: 265px;
+}
+
+.firstCard {
+  color: gray;
+  font-size: 17px;
+  line-height: 34px;
+  padding-left: 18px;
+  padding-top: 10px;
+  box-sizing: border-box;
+}
+
+.box {
+  padding: 20px;
+  border: 1px solid lightgray;
+  width: max-content;
+  border-radius: 5px;
+  background: white;
+  cursor: pointer;
+}
+
+.box:hover {
+  padding: 18px;
+  border: 2px solid teal;
+}
+
+.bottomDiv {
+  display: flex;
+  justify-content: space-between;
+}
+
+.second {
+  width: 99.5%;
+  margin: auto;
+}
