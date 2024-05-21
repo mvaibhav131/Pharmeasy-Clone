@@ -16,11 +16,11 @@ Implemented searching ,review product and buying functionalities with online pay
 ### Functionalities are:
 
 * Login
-* Searching Product
+* Searching Product using debouncing search
 * Different pages based on different category
 * See more details about the product
 * Add and remove items from the cart
-* Payment processes
+* Payment process
 * MY Order Page to checkout order details
 
 ### Tech Stack
