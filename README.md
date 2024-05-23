@@ -15,9 +15,9 @@ Implemented searching ,review product and buying functionalities with online pay
 
 ### Functionalities are:
 
-* Login
-* Searching Product using debouncing search
-* Different pages based on different category
+* Login.
+* Searching Product using debouncing search.
+* Different pages based on different category.
 * See more details about the product
 * Add and remove items from the cart
 * Payment process
