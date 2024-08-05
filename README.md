@@ -1,5 +1,5 @@
 # Pharmeasy-Clone
-The website is used to purchase online medicines &amp; product..
+The website is used to purchase online medicines &amp; product.
 
  ## PharmEasy
  
